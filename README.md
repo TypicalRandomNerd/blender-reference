@@ -1,8 +1,8 @@
 # blender-reference
 
 
-| Tables         | Are           |
-| -------------: |---------------|
-| col 3 is       | right-aligned |
-| col 2 is       | centered      |
-| zebra stripes  | are neat      |
+| Tables        | Are           | Kewl    |
+| ------------- |---------------| ------- |
+| col 1         | right-aligned |         |
+| col 2         | centered      |         |
+| col 3         | are neat      |         |
