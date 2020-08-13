@@ -6,7 +6,9 @@ Because of this Blender is viewed as difficult to learn and use It also doesn't 
 
 Once you master the shortcuts you really see where the power behind Blender's hotkey-driven workflow. A lot of people are moving to Blender from industry standard software especially now given Autodesk's new Student licensing. I've taken the liberty in compiling a list of essential shortcuts. It's a lot, but you're not meant to know them **all**. You're just meant to know the essential ones. I tried to move those to the top of the list, but keep in mind the entire list isn't in any particular order other than maybe the first 25 hotkeys. Believe me, once you download Blender, install it, start up a new Blender scene and start learning it doesn't take any time to familiarize yourself with the shortcuts. _It just takes persistence and practice, just like learning Maya or 3ds Max did!_ Remember, you're just learning the hotkey and GUI. The principles that you learned previously in other software still applies.
 
->**The `.` key on the keypad and the `.` key to the left of the shift key performs different operations! The `.` key next to the shift key (that most of us use as the full stop key) brings up the pivot translate menu, where the `.` key on the keypad that most of us use when typing decimals in numbers will frame the selected object(s). The `/` key next tothe `Shift` key and the `/` on the keypad perform the **same** operation.**
+>The `.` key on the keypad and the `.` key to the left of the shift key performs different operations! The `.` key next to the shift key (that most of us use as the full stop key) brings up the pivot translate menu, where the `.` key on the keypad that most of us use when typing decimals in numbers will frame the selected object(s). The `/` key next tothe `Shift` key and the `/` on the keypad perform the **same** operation.
+  
+>The 'M' key does different things depending on the mode you're in. While in object mode, it will populate the `Move to Collection` menu, while in edit mode it will populate the `Merge` menu.
 
 Key|Action|Notes
 :---:|---|---
@@ -25,7 +27,8 @@ K|Knife Tool|Used to draw out vertices to create geometry
 Y|Split
 H|Hide Object|Hides object from viewport
 L|Select Linked|Selects linked objects
-M|Collection Menu|Brings up collection menu that allows you to add an object to a collection
+M|Move to Collection Menu|Brings up collection menu that allows you to add an object to a collection
+M|Merge Menu|Brings up merge menu with different merge operations
 N|Toggle Sidebar|Toggles the sidebar on and off that has different transformation tools
 T|Toggle Toolbar|Toggles the toolbar on and off that has different tools
 P|Separate Menu|Brings up separate menu that includes different separate operations
