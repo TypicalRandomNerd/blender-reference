@@ -60,6 +60,7 @@ Shift+D|Duplicate|Duplicates object(s), vertex(vertices), edge(s), or face(s)
 Shift+N|Recalculate Normals|Recalculates normals so all normals are facing the proper direction
 Shift+Z|Toggle Wireframe|Toggles wireframe mode on and off
 Shift+W|Bend Tool|Tool that allows you to bend objects around the 3D cursor and mouse cursor
+Shift+G|Select Similar|Opens menu with a variety of select similar operations
 Shift+RMB|Move 3D Cursor|Moves the 3D cursor to the mouse pointer
 Shift+Tab|Toggle Snapping|Toggles snapping on and off
 Shift+Space|Toolbar Menu|Brings up menu that has all the tools from the tools panel
